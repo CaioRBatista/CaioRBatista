@@ -1,8 +1,8 @@
 - Hi, I'm Caio Batista.
-- My interest is in Java. In the future I will improve myself in this programming language.
-- I'm currently learning Logic Programming in Java.
+- My interest is in Back-End.
+- I'm currently learning Logic Programming.
 
-- Hability
+- Skills
 
 - Git | GitHub
  
