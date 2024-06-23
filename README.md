@@ -4,7 +4,7 @@
 
 - Skills
 
-- Java
+
 - Git | GitHub
   
  
