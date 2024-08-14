@@ -1,11 +1,11 @@
-- Hi, I'm Caio Batista.
-- My interest is in Back-End.
-- I'm currently learning Logic Programming.
+- Olá, eu sou o Caio Batista.
+- Back-End.
+- Atualmente estou trabalhando com C# 
 
 - Skills
 
 
-- Git | GitHub
+- C#
   
  
 
